@@ -1,4 +1,4 @@
-30 Pin FPC LCD 0.65/1.00mm Breakout Board
+30 Pin FPC LCD 0.65/0.75/1.00mm Breakout Board
 ================================
 Manufactured by : Geek Ammo  
 SKU : GMO-00058
